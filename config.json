@@ -1,0 +1,8 @@
+{
+   "botToken": "put your bot token obtained from @BotFather here",
+   "urlsToCheck": [
+      "https://www.keldoc.com/cabinet-medical/toulouse-31000/vaccinodrome-toulouse/vaccinodrome-toulouse?motive=88503&category=3243&cabinet=18777&specialty=144",
+      "https://www.keldoc.com/cabinet-medical/toulouse-31000/vaccinodrome-toulouse/vaccinodrome-toulouse?motive=96440&category=3752&cabinet=18777&specialty=144"
+   ],
+   "sleepBetweenChecks": 3000
+}
